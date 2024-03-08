@@ -1,0 +1,31 @@
+01-->LGBT
+02-->Gothic
+03-->Classic
+04-->Fiction
+05-->Non-fiction
+06-->Thriller
+07-->Romance
+08-->Comedy
+09-->Horror
+10-->Fantasy
+11-->Nautical
+12-->Satire
+13-->Adventure
+14-->Science Fiction
+15-->Mystery
+16-->Psychological 
+17-->Historical fiction
+18-->Time travel 
+19-->Chivalric romance
+20-->Contemporary Romance
+21-->Contemporary Literature
+22-->Travel Literature
+23-->Psychological
+24-->Young Adult Fiction
+25-->Erotic Literature
+26-->Fantasy Fiction
+27-->Autobiography
+28-->Memoir
+29-->Math
+30-->Textbook
+31-->Physics

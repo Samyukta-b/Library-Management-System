@@ -1,0 +1,96 @@
+001-->Red, White & Royal Blue-->Casey McQuiston-->Available-->LGBT, Romance, Comedy-->May 14, 2019
+002-->Outlander-->Diana Gabaldon-->Available-->Historical fiction, Romance, Science fantasy-->June 1, 1991
+003-->Dragonfly in Amber-->Diana Gabaldon-->Available-->Historical fiction, Romance, Science fantasy-->July 1, 1992
+004-->Voyager-->Diana Gabaldon-->Not Available-->Historical fiction, Romance, Science fantasy-->December 1, 1993
+005-->Drums of Autumn-->Diana Gabaldon-->Not Available-->Historical fiction, Romance, Science fantasy-->December 30, 1996
+006-->The Fiery Cross-->Diana Gabaldon-->Available-->Historical fiction, Romance, Science fantasy-->November 6, 2001
+007-->A Breath of Snow and Ashes-->Diana Gabaldon-->Available-->Historical fiction, Romance, Science fantasy-->September 27, 2005
+008-->An Echo in the Bone-->Diana Gabaldon-->Available-->Historical fiction, Romance, Science fantasy-->September 22, 2009
+009-->Written in My Own Heart's Blood-->Diana Gabaldon-->Not Available-->Historical fiction, Romance, Science fantasy-->June 10, 2014
+010-->Go Tell the Bees That I Am Gone-->Diana Gabaldon-->Not Available-->Historical fiction, Romance, Science fantasy-->November  23, 2021
+011-->The Love Hypothesis-->Ali Hazelwood-->Available-->Romance, Fiction, Contemporary romance-->September 14,  2021
+012-->People We Meet on Vacation-->Emily Henry-->Available-->Romance, Fiction, Contemporary romance, Comedy-->May 11, 2021
+013-->It Ends with Us-->Colleen Hoover-->Available-->Romance, Fiction, Contemporary romance-->August 2, 2016
+014-->Seven Days in June-->Tia Wiliams-->Not Available-->Fiction, Romance, Contemporary literature-->June 1, 2021
+015-->The Fault in Our Stars-->John Green-->Available-->Romance, Young adult fiction-->January 10, 2012
+016-->The Seven Husbands of Evelyn Hugo-->Taylor Jenkins Reid-->Available-->Romance, Historical Fiction, Psychological, Fiction-->June 13, 2017
+017-->One Last Stop-->Casey  McQuiston-->Available-->Romance, New adult fiction, LGBT, Contemporary romance-->June 1, 2021
+018-->The Kiss Quotient-->Helen Hoang-->Not Available-->Romance, Fiction, Contemporary romance-->May 20, 2018
+019-->Ugly Love-->Colleen Hoover-->Available-->Romance, Fiction-->August 5, 2014
+020-->Neon Gods-->Katee Robert-->Available-->Romance, Contemporary romance, Erotic literature, Fantasy Fiction, Fairy tale-->June 1, 2021
+021-->Honey Girl-->Morgan Rogers-->Available-->Romance, New adult fiction, LGBT-->February 23, 2021
+022-->The Song of Achilles-->Madeline Miller-->Available-->Romance, Historical Fiction-->August 28, 2012
+023-->Indigo-->Beverly Jenkins-->Available-->Romance, Historical Fiction-->November, 1996
+024-->Nightwork-->Nora Roberts-->Available-->Romance, Fiction, Thriller-->May 24, 2022
+025-->Reminders of Him-->Colleen Hoover-->Available-->Romance, Contemporary romance, Fiction-->January 18, 2022
+026-->Vision in White-->Nora Roberts-->Available-->Romance, Contemporary romance-->April 28, 2009
+027-->The Diary of a Young Girl-->Anne Frank-->Available-->Biography, Autobiography, Personal narrative, Jewish literature-->June 25, 1947
+028-->Lily's Promise: How I Survived Auschwitz and Found the Strength to Live-->Dov Forman, Lily Ebert-->Available--> Biography, Autobiography-->September, 2021
+029-->The Autobiography of Malcolm X-->Alex Haley, Malcolm X-->Available-->Autobiography, Biography-->October 29, 1965
+030-->Autobiography of Mark Twain-->Mark Twain-->Available-->Autobiography, Biography-->2010
+031-->I Know Why the Caged Bird Sings-->Maya Angelou-->Available-->Autobiography, Biography-->1969
+032-->Surely You're Joking, Mr. Feynman!-->Richard Feynman-->Available-->Biography, Autobiography, Comedy-->1985
+033-->Eat, Pray, Love: One Woman's Search for Everything Across Italy, India and Indonesia-->Elizabeth Gilbert-->Available-->Memoir, Biography-->February 16, 2006
+034-->The Story of My Life-->Helen Keller-->Available-->Biography, Autobiography-->1902
+035-->The Meaning of Mariah Carey-->Mariah Carey, Michaela Angela Davis-->Available-->Autobiography, Biography-->September 29, 2020
+036-->Narrative of the Life of Frederick Douglass, an American Slave-->Frederick Douglass-->Available-->Autobiography, Biography, Slave narrative-->May 1, 1845
+037-->Wings of Fire-->A. P. J. Abdul Kalam, Arun Tiwari-->Available-->Autobiography, Biography, Inspirational Fiction-->1999
+038-->Agatha Christie: An Autobiography-->Agatha Christie-->Available-->Autobiography, Biography, Memoir-->November, 1977
+039-->A Moveable Feast-->Ernest Hemingway-->Available --->Biography, Memoir, Autobiography-->December, 1964
+040-->Born a Crime-->Trevor Noah-->Available-->Biography, Autobiography-->November 15, 2016
+041-->Long Walk to Freedom-->Nelson Mandela-->Available-->Autobiography-->November 30, 1994
+042-->Becoming-->Michelle Obama-->Available-->Biography, Autobiography, Memoir-->November 13, 2018
+043-->Abstract Algebra: Theory and Applications-->Thomas W. Judson-->Available-->Math, Textbook-->1994
+044-->Discrete Mathematics: An Open Introduction-->Oscar Levin-->Not Available-->Math, Textbook-->August 15, 2015
+045-->Elementary Linear Algebra-->Howard Anton-->Not available-->Math, Textbook-->January 19, 2010
+046-->Introduction to Real Analysis-->William F. Trench-->Not Available-->Math, Textbook-->2003
+047-->Active Calculus-->David C. H. Austin, Matthew Boelkins, Steven Schlicker-->Available-->Math, Textbook-->August, 2014
+048-->Book of Proof-->Richard H. Hammack-->Not Available-->Math, Textbook-->2009
+049-->Precalculus-->John B Coburn-->Available-->Math, Textbook-->--
+050-->The Four Pillars of Geometry-->John Stillwell-->Available-->Math, Textbook-->2005
+051-->A Textbook of Engineering Physics-->M.N.Avadhanulu-->Available-->Physics, Textbook-->2008
+052-->Textbook of Engineering Physics-->Mehta Neeraj-->Not Available-->Physics, Textbook-->2008
+053-->Textbook of Applied Physics-->A.K.Jha-->Available-->Physics, Textbook-->2013
+054-->Quantum mechanics for applied physics-->A.T.Fromhold-->Not Available-->Physics, Textbook-->1981
+055-->Applied Physics for Engineers-->Mehta Neeraj-->Available-->Physics, Textbook-->2011
+056-->Engineering Physics-->G.Aruldhas-->Not Available-->Physics, Textbook-->2010
+057-->Modern Engineering Physics-->A.S.Vasudeva-->Available-->Physics, Textbook-->2012
+058-->The Silence of the Lambs-->Thomas Harris-->Available-->Thriller, Mystery, Horror fiction, Psycological horror-->May 19, 1988
+059-->Gone Girl-->Gillian Flynn-->Available-->Th060-->riller, Mystery-->May 24, 2012
+060-->The Girl on the Train-->Paula Hawkins-->Not Available-->Thriller, Mystery, Suspense, Psycological fiction-->January 6, 2015
+061-->My Sister Rosa-->Justine Larbalestier-->Not Available-->Thriller, Psycological fiction-->January 26, 2016
+062-->The Silent Patient-->Alex Michaelides-->Available-->Thriller, Mystery, Suspense, Psycological horror-->February 5, 2019
+063-->The Family Upstairs-->Libby Jonas-->Not Available-->Thriller, suspense, Psycological fiction-->August 6, 2019
+064-->That Night-->Nidhi Upadhyay-->Available-->Thriller, Fiction, Suspense-->2021
+065-->The Holiday-->T.M.Logan-->Not Available-->Thriller, Fiction, Mystery, Psycological thriller, June 11, 2020
+066-->Before the Coffee Gets Cold-->Toshikazu Kawaguchi-->Available-->Fiction, Fantasy fiction, Time travel fiction, Magical Realism-->December, 2015
+067-->Looking for Alaska-->John Green-->Available-->Fiction, Young adult fiction, Romance-->March 3, 2005
+068-->Harry Potter and the Philosopher's Stone-->J.K.Rowling-->Not Available-->Fantasy-->June 26, 1997
+069-->Harry Potter and the Chamber of Secrets-->J.K.Rowling-->Available-->Fantasy-->July 2, 1998
+070-->Harry Potter and the prisoner of Azkaban-->J.K.Rowling-->Available-->Fantasy-->July 8, 1999
+071-->Harry Potter and the Goblet of Fire-->J.K.Rowling-->Available-->Fantasy-->July 8, 2000
+072-->Harry Potter and the Order of the Pheonix-->J.K.Rowling-->Not Available-->Fantasy-->June 21, 2003
+073-->Harry Potter and the Half-Blood prince-->J.K.Rowling-->Not Available-->Fantasy-->July 16, 2005
+074-->Harry Potter and the Deathly Hallows-->J.K.Rowling-->Available-->Fantasy-->July 14, 2007
+075-->Anxious People-->Fedrik Backman-->Available-->Fiction, Humor, Psycological Fiction-->April 25, 2019
+076-->The Midnight Library-->Matt Haig-->Not Available-->Fiction, Science fiction, fantasy fiction, Philosophical fiction-->August 13, 2020
+077-->The Girl with No Dreams-->Deepak Gupta-->Fiction, Romance-->Available-->December 17, 2019
+078-->Less-->Andrew Sean Greer-->Available-->Humor, Satire, LGBTQ, Non-fiction-->July 18,2017
+079-->A Short History of Nearly Everything-->Bill Bryson-->Not Available-->Non-fiction-->February 4, 2003
+080-->Sapiens: A Brief History of Humankind-->Yuval Noah Harari-->Available-->Non-fiction-->2011
+081-->Quiet: The Power of Introverts in a World That Can't Stop Talking-->Susan Cain-->Not Available-->Non-fiction-->January 24, 2012
+082-->The Subtle Art of Not giving a F*ck-->Mark Manson-->Available-->Non-fiction-->September 13, 2016
+083-->The Making of the Atomic Bomb-->Richard Rhodes-->Available-->Non-fiction-->1986
+084-->Into Thin Air-->Jon Krakauer-->Not Available-->Non-fiction-->1997
+085-->Columbine-->Dave Cullen-->Available-->Non-fiction-->April 6, 2009
+086-->Into The Wild-->Jon Krakauer-->Available-->Non-fiction, Biography, Travel literature-->January 13, 1996
+087-->The Cases that India Forgot-->Chintan Chandrachud-->Not Available-->Non-fiction, History-->December 31, 2019
+088-->To Kill a Mockingbird-->Harper lee-->Available-->Classic, Southern gothic-->July 11, 1960
+089-->The White Tiger-->Aravind Adiga-->Not Available-->Classic, Mystery, Picaresque novel-->2008
+090-->A Suitable Boy-->Vikram Seth-->Available-->Classic, Fiction, Romance-->May, 1993
+091-->Jane Eyre-->Charlotte Bronte-->Available-->Classic, Romance, Gothic fiction, Social criticism, Fictional autobiography-->October 16, 1847
+092-->Pride and Prejudice-->Jane Austen-->Not Available-->Classic, Romance, Satire-->January 28, 1813
+093-->Little Women-->Louisa May Alcott-->Available-->Classic, Literary fiction, Comedy-->1868
+094-->Moby Dick-->Herman Melville-->Not Available-->Classic, Adventure fiction, Epic, nautical fiction-->October 18, 1851
+095-->Frankenstein-->Mary Shelley-->Available-->Classic, Science fiction, Gothic fiction, Horror fiction, Romance-->January 1, 1818
+096-->The Lord of the Rings-->J.R.R.Tolkein-->Available-->Classic, Adventure fiction, Fantasy, Heroic fantasy, Chivalric romance-->July 29, 1954
